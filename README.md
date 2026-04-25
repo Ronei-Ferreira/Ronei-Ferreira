@@ -88,6 +88,6 @@ Busco constantemente evoluir como desenvolvedor, explorando novas ferramentas e 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ronei-Ferreira&color=0077B5&style=for-the-badge&label=Visitantes)
 
-*Feito com ❤️ por Ronei Ferreira*
+*Ronei Ferreira*
 
 </div>
